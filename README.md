@@ -27,8 +27,6 @@ Para obter esse projeto, siga os passos:
 3. Rode <code> yarn start </code> na raíz da pasta do projeto para inicializar o Metro Bundler.
 4. Abra o projeto no navegador.
 
-⚠️ Caso o projeto não mostre os produtos, rode <code>adb reverse tcp:3333 tcp:3333</code> antes de iniciar a Fake API ⚠️
-
 # Como Contribuir?
 **Faça um fork deste repositório**
 
