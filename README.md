@@ -2,7 +2,7 @@
   <img src="./src/assets/icone.png" />
 </p>
 
-# GoMarketplace
+# GoFinancesWeb
 Este repositório é referente ao desafio 'Fundamentos do ReactJS' do Bootcamp GoStack 12.0, da Rocketseat 🚀.
 
 # Proposta
