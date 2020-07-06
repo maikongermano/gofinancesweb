@@ -32,7 +32,7 @@ Para obter esse projeto, siga os passos:
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd GoMarketplace
+$ git clone url-do-seu-fork && cd gofinancesweb
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
