@@ -37,7 +37,7 @@ $ git clone url-do-seu-fork && cd gofinancesweb
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
 
-# Faça o commit das suas alterações
+# Faça o commit das suas alterações 
 $ git commit -m 'minhas alterações'
 
 # Faça o push para a sua branch
